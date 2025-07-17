@@ -1,0 +1,45 @@
+prompt,response,tag
+Hi,Hello!,greeting
+Hello,Good to see you!,greeting
+Hey,"Hi there, how can I help?",greeting
+Good day,Hello!,greeting
+How are you?,"Hi there, how can I help?",greeting
+Goodbye,Sad to see you go :(,farewell
+Bye,Goodbye!,farewell
+See you later,Come back soon!,farewell
+Talk to you later,Goodbye!,farewell
+Who created you?,I was created by Roshan Sinha.,creator
+Who is your developer?,I was created by Roshan Sinha.,creator
+Who made you?,I was created by Roshan Sinha.,creator
+What is your name?,You can call me Mind Reader. I'm a Chatbot.,identity
+What should I call you?,You can call me Mind Reader. I'm a Chatbot.,identity
+Who are you?,You can call me Mind Reader. I'm a Chatbot.,identity
+What are the college timings?,"The college is open from 8am to 5pm, Monday to Saturday.",hours
+When is the college open?,"The college is open from 8am to 5pm, Monday to Saturday.",hours
+What are your hours of operation?,"The college is open from 8am to 5pm, Monday to Saturday.",hours
+How can I contact the college?,You can contact the college at 123456789.,contact
+What is the college telephone number?,You can contact the college at 123456789.,contact
+Can I get your contact number?,You can contact the college at 123456789.,contact
+What courses are offered in the college?,"The college offers courses in Information Technology, Computer Engineering, Mechanical Engineering, Chemical Engineering, and Civil Engineering.",courses
+Can you tell me about the available courses?,"The college offers courses in Information Technology, Computer Engineering, Mechanical Engineering, Chemical Engineering, and Civil Engineering.",courses
+What are the branches in the college?,"The college offers courses in Information Technology, Computer Engineering, Mechanical Engineering, Chemical Engineering, and Civil Engineering.",courses
+How much is the college fee?,"For detailed fee information, please visit our college website.",fees
+Tell me about the fees,"For detailed fee information, please visit our college website.",fees
+What are the hostel fees?,"For detailed fee information, please visit our college website.",fees
+Where is the college located?,The college is located at [insert address]. You can find the location on Google Maps.,location
+What is the college address?,The college is located at [insert address]. You can find the location on Google Maps.,location
+How can I reach the college?,The college is located at [insert address]. You can find the location on Google Maps.,location
+Does the college provide hostel facilities?,"For detailed information about the hostel, please visit our college website.",hostel
+Where is the hostel located?,"For detailed information about the hostel, please visit our college website.",hostel
+Tell me about the college events.,"For information about the events, please visit our college website.",events
+What is the admission process?,"For detailed admission information, please visit our college website.",admission
+Does the college have a library?,"Yes, the college has a library. The library is located [insert location]. The timings are from 9am to 5pm, Monday to Friday.",library
+What facilities are available in the college?,"The college provides various facilities including a sports complex, labs, cafeteria, and a library.",facilities
+How are the placements in the college?,The college has a good placement record. Many reputed companies visit our campus for recruitment.,placement
+Why did you choose this school?,"I chose this school because of its strong academic reputation, excellent faculty, and a wide range of courses offered.",school_choice
+Are you happy here?,"As an AI, I don't have emotions, but I'm here to assist and provide information about the college.",happiness
+What are your school's strengths?,"Our college excels in providing quality education, fostering a supportive learning environment, and offering a wide range of extracurricular activities.",strengths
+What's your #1 complaint about your school?,"While my purpose is to provide information, some students may have different opinions. It's always good to provide feedback for continuous improvement.",complaints
+What else could stand to be improved?,"Continuous improvement is essential for any institution. Areas that can be considered for improvement include infrastructure, facilities, and student support services.",improvements
+How accessible are administrators?,The college administration strives to maintain accessibility for students. Office hours and contact information for various staff members are available for student assistance.,accessibility
+What majors are popular?,"Popular majors in our college include Computer Science, Business Administration, Psychology, Engineering, and Biology.",academics_majors
